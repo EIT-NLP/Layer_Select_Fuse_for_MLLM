@@ -122,4 +122,13 @@ models=(
     )
 ```
 
+## Contact
+
+If you have any questions about this project, or would like to discuss related topics, feel free to reach out via email:
+
+- **Junyan Lin**: [Linjyan00@163.com](mailto:Linjyan00@163.com)  
+- **Haoran Chen**: [haoranchr@163.com](mailto:haoranchr@163.com)
+
+
+
 
